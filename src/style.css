@@ -241,4 +241,3 @@ button.btn:disabled { opacity: .4; cursor: default; }
 
 /* Reward tab */
 .rw { position: absolute; inset: 0; }
-@media (max-width: 480px) { #nav a:last-child { display: none; } }
